@@ -17,9 +17,9 @@ pip install probabfunc
 ```python
 import probabfunc
 
-probabfunc.calculate_mean # returns mean of the function
-probabfunc.calculate_stdev # returns standard deviation of the function
-probabfunc.pdf  #returns the probability density function
+probabfunc.calculate_mean       # returns mean of the function
+probabfunc.calculate_stdev      # returns standard deviation of the function
+probabfunc.pdf                  #returns the probability density function
 .
 .
 .
